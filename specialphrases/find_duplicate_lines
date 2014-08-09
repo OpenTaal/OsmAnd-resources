@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# @author Pander <pander@opentaal.org>
+# @licence GPLv3+ <http://www.gnu.org/licenses/gpl.html>
+if [ $# == 0 ]
+then
+	for i in specialphrases_*.txt
+	do
+		echo $i
+		cat $i|sort|uniq -c|sort|grep -v '^      1'
+	done
+else
+	echo specialphrases_$1.txt
+	cat specialphrases_$1.txt|sort|uniq -c|sort|grep -v '^      1'
+fi

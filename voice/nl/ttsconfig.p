@@ -32,14 +32,14 @@ string('route_calculate.ogg', 'Afstand is opnieuw berekend ').
 string('distance.ogg', ', de nieuwe afstand is ').
 
 % LEFT/RIGHT
-string('prepare.ogg', 'Verder op  ').
+string('prepare.ogg', 'Verder op ').
 % Verder op should officially be spelled as verderop but is not pronounced correctly
 % by tts voices when spelled that way. Please leave it like this.
 string('after.ogg', 'Na ').
 
 string('left.ogg', 'links afslaan ').
 string('left_sh.ogg', 'scherpe bocht naar links ').
-string('left_sl.ogg', 'links afbuigen  ').
+string('left_sl.ogg', 'links afbuigen ').
 string('right.ogg', 'rechts afslaan ').
 string('right_sh.ogg', 'scherpe bocht naar rechts ').
 string('right_sl.ogg', 'rechts afbuigen ').
@@ -58,7 +58,7 @@ string('prepare_roundabout.ogg', 'Neem de rotonde na ').
 string('roundabout.ogg', ' de rotonde oprijden en neem dan de ').
 string('then.ogg', 'dan ').
 string('and.ogg', 'en ').
-string('take.ogg', 'Neem de  ').
+string('take.ogg', 'Neem de ').
 string('exit.ogg', 'afslag ').
 
 string('1st.ogg', 'eerste ').
@@ -69,7 +69,7 @@ string('5th.ogg', 'vijfde ').
 string('6th.ogg', 'zesde ').
 string('7th.ogg', 'zevende ').
 string('8th.ogg', 'achtste ').
-string('9th.ogg', 'negende  ').
+string('9th.ogg', 'negende ').
 string('10th.ogg', 'tiende ').
 string('11th.ogg', 'elfde ').
 string('12th.ogg', 'twaalfde ').
@@ -81,7 +81,7 @@ string('17th.ogg', 'zeventiende ').
 
 % STRAIGHT/FOLLOW
 string('go_ahead.ogg', 'Deze weg blijven volgen ').
-string('follow1.ogg', 'De weg  ').
+string('follow1.ogg', 'De weg ').
 string('follow2.ogg', 'volgen ').
 
 % ARRIVE
@@ -91,21 +91,21 @@ string('and_arrive_intermediate.ogg', 'en dan heb je je routepunt ').
 string('reached_intermediate.ogg', 'je hebt je routepunt ').
 string('and_arrive_waypoint.ogg', 'en dan heb je je GPX routepunt ').
 string('reached_waypoint.ogg', 'je hebt je GPX routepunt ').
-string('reached.ogg', 'bereikt  ').
+string('reached.ogg', 'bereikt ').
 
 % OTHER PROMPTS
 string('attention.ogg', 'let op , ').
-string('location_lost.ogg', 'G P S  signaal verloren ').
-string('location_recovered.ogg', 'g p s signaal hersteld ').
+string('location_lost.ogg', 'GPS signaal verloren ').
+string('location_recovered.ogg', 'GPS signaal hersteld ').
 string('off_route.ogg', 'je bent afgeweken van de route vanaf ').
 string('exceed_limit.ogg', 'je overschrijdt de maximumsnelheid ').
 
 % STREET NAME GRAMMAR
-string('onto.ogg', 'naar  ').
+string('onto.ogg', 'naar ').
 
 % DISTANCE UNIT SUPPORT
 string('meters.ogg', 'meter ').
-string('around_1_kilometer.ogg', 'ongeveer een kilometer  ').
+string('around_1_kilometer.ogg', 'ongeveer een kilometer ').
 string('around.ogg', 'ongeveer ').
 string('kilometers.ogg', 'Kilometer ').
 

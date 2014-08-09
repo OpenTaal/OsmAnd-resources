@@ -1,0 +1,31 @@
+#!/usr/bin/env bash
+# @author Pander <pander@opentaal.org>
+# @licence GPLv3+ <http://www.gnu.org/licenses/gpl.html>
+cd voice
+mplayer route_is1.ogg 30.ogg kilometers.ogg route_is2.ogg
+sleep .6
+mplayer route_calculate.ogg distance.ogg 20.ogg kilometers.ogg
+sleep .6
+mplayer prepare.ogg right_keep.ogg
+sleep .6
+mplayer prepare.ogg left_sh.ogg
+sleep .6
+mplayer after.ogg 1.ogg kilometers.ogg right_sl.ogg
+sleep .6
+mplayer after.ogg 2.ogg kilometers.ogg left.ogg
+sleep .6
+mplayer prepare_make_uturn.ogg 3.ogg kilometers.ogg
+sleep .6
+mplayer make_uturn_wp.ogg
+sleep .6
+mplayer prepare_roundabout.ogg 400.ogg meters.ogg
+sleep .6
+mplayer roundabout.ogg 3rd.ogg exit.ogg
+sleep .6
+mplayer take.ogg 12th.ogg exit.ogg
+sleep .6
+mplayer go_ahead.ogg
+sleep .6
+mplayer follow1.ogg 300.ogg meters.ogg follow2.ogg
+#TODO Make test exhaustive for all OGG files.
+cd ..
