@@ -14,7 +14,7 @@ administrative_hamlet,Gehucht
 administrative_island,Eiland
 administrative_isolated_dwelling,Einzelsiedlung
 administrative_locality,unbewohnter Ort
-administrative_neighbourhood,Stadtviertel
+administrative_neighbourhood,Wijk
 administrative_ocean,Oceaan
 administrative_region,Regio
 administrative_sea,Zee
@@ -28,7 +28,7 @@ aerialway_chair_lift,Stoeltjeslift
 aerialway_drag_lift,Sleeplift
 aerialway_gondola,Cabinelift
 aerialway_goods,Materialenlift
-aerialway_mixed_lift,Gemende lift
+aerialway_mixed_lift,Gemengde lift
 aerialway_station,Liftstation
 aerodrome,Luchthaven
 aeroway_apron,Platform
@@ -47,7 +47,7 @@ anchor_berth,Ligplaats
 antenna,Antenne
 apartments,Appartement
 apparel,Kledingwinkel
-archaeological_site,Archeologische site
+archaeological_site,Archeologisch waardevol terrein
 archery,Boogschieten
 architect,Architect
 art,Kunstwinkel
@@ -112,7 +112,7 @@ bus_guideway,Busbaan
 bus_station,Busstation
 bus_stop,Bushalte
 butcher,Slagerij
-byway,B-weg
+byway,B-weg       %Parallelweg?
 cabin,Hut
 cable_distribution_cabinet,Kabelverdeelkast
 cafe,Café
@@ -133,7 +133,7 @@ car_sharing,Autodelen
 car_wash,Autowasstraat
 casino,Casino
 castle,Kasteel
-cattle_grid,TODO
+cattle_grid,Veerooster
 cave_entrance,Grotingang
 cemetery,Begraafplaats
 chain,Ketting
@@ -230,7 +230,7 @@ enforcement_traffic_signals,Veerkeerslichten
 entrance,Ingang
 equestrian,Paardensport
 estate_agent,Makelaar
-fabric,TODO
+fabric,Stoffenwinkel
 faculty,Faculteitsgebouw
 farm,Boerderij
 farmland,Landbouwgrond
@@ -243,11 +243,11 @@ fence,Hek
 fencing,Schermen
 ferry_terminal,Veerterminal
 fire_extinguisher,Brandblusser
-fire_flapper,TODO
+fire_flapper,Vuurzweep
 fire_hose,Brandslang
 fire_hydrant,Brandkraan
 fire_station,Brandweer
-fire_water_pond,TODO
+fire_water_pond,Blusvijver
 first_aid,Eerste hulp
 fishing,Visvijver
 fish_pass,Visvergunning
@@ -352,7 +352,7 @@ lawyer,Advocaat
 lean_to,Open schutplaats
 level_crossing,Gelijkvloerse kruising
 library,Bibliotheek
-life_ring,TODO
+life_ring,Reddingsboei
 lift_gate,Liftdoorgang
 lighthouse,Vuurtoren
 light_rail,Lightrail
@@ -472,20 +472,20 @@ racquet,Racquet
 radio_station,Radiostation
 railway_abandoned,TODO
 railway_buffer_stop,TODO
-railway_construction,TODO
-railway_crossing,TODO
+railway_construction,Spoorwerkzaamheden
+railway_crossing,Spoorwegovergang
 railway_disused,TODO
 railway_funicular,TODO
-railway_level_crossing,TODO
+railway_level_crossing,Spoorwegovergang
 railway_monorail,TODO
 railway_narrow_gauge,TODO
 railway_preserved,TODO
-railway_rail,TODO
-railway_signal,TODO
-railway,Spoor
+railway_rail,Spoor
+railway_signal,Spoorwegsein
+railway,Spoorweg
 railway_station,Treinstation
 railway_turntable,TODO
-range,TODO
+range,Oefenterrein
 rapids,Stroomversnelling
 reception_area,Receptie
 recreation_ground,Recreatiegebied
@@ -513,7 +513,7 @@ ruins,Ruïne
 running,Hardlopen
 sally,TODO
 salon,Schoonheidssalon
-salt_pond,TODO
+salt_pond,Zoutwatervijver
 sauna,Sauna
 school,School
 scree,Puin
@@ -524,8 +524,8 @@ sea,Zee
 secondary_link,Secundaire weg
 secondary,Secundaire weg
 second_hand,Tweedehandswinkel
-services,TODO
-service,Serviceweg
+services,Verzorgingsplaats
+service,Toegangsweg
 shelter,Beschutting
 shoal,Zandbank
 shoemaker,Schoenenmaker
@@ -619,7 +619,7 @@ travel_agent,Reisbureau
 tree,Boom
 trunk,Autoweg
 trunk_link,Autoweg
-turning_circle,TODO
+turning_circle,TODO     %keerlus is voor trams. Keerplein? Keerpunt?
 turnstile,Draaipoort
 unclassified,Landweg
 unincorporated_area,Gemeentevrij gebied
